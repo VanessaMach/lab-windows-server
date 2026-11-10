@@ -18,12 +18,21 @@ ambiente virtual de aprendizagem.
 
 ## Configuração do ambiente
 
-- Sistema operacional: Windows Server [versão]
-- Plataforma de virtualização: Oracle VirtualBox
-- Memória RAM da máquina virtual: [quantidade]
-- Processadores virtuais: [quantidade]
-- Disco virtual: [capacidade]
-- Modo de rede: [NAT, rede interna ou outro]
+## Configuração do ambiente
+
+- Virtualizador: Oracle VirtualBox
+- Sistema operacional: Windows Server 2025 Standard Evaluation
+- Versão do sistema: 24H2
+- Memória RAM da máquina virtual: 3 GB
+- Processadores virtuais: 2
+- Disco virtual: 60 GB, em formato VDI com alocação dinâmica.
+
+## Teste inicial
+
+**Objetivo:** verificar a inicialização do servidor.
+
+**Resultado:** o Windows Server iniciou no VirtualBox e apresentou
+a interface gráfica e o Gerenciador do Servidor.
 
 ## Testes realizados
 
