@@ -18,8 +18,6 @@ ambiente virtual de aprendizagem.
 
 ## Configuração do ambiente
 
-## Configuração do ambiente
-
 - Virtualizador: Oracle VirtualBox
 - Sistema operacional: Windows Server 2025 Standard Evaluation
 - Versão do sistema: 24H2
