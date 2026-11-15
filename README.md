@@ -75,7 +75,9 @@ leitura, gravação e modificação. A opção de controle total
 A pasta também foi configurada para compartilhamento, com
 permissões de leitura e alteração para o grupo Financeiro.
 
-![Permissões de compartilhamento da pasta](imagens-laboratorio/06-compartilhamento.png)
+![Configuração de compartilhamento da pasta](imagens-laboratorio/06-compartilhamento-1.png)
+
+![Permissões de compartilhamento da pasta](imagens-laboratorio/06-compartilhamento-2.png)
 
 ## Testes de acesso
 
